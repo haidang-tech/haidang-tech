@@ -1,7 +1,7 @@
 # Hi there, I'm Phan Nguyen Hai Dang 👋
 
 🎓 **MIS Undergraduate & Aspiring Data Scientist / Data Engineer**  
-Passionate about Data Analysis, Machine Learning, ETL Pipelines, and AI/RAG solutions. Transforming complex datasets into actionable insights and scalable intelligent systems.
+Bridging the gap between data-driven technology and business decision-making. Passionate about Machine Learning, Statistical Modeling, and building scalable data pipelines to transform complex data into actionable business intelligence.
 
 ---
 
